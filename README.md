@@ -1,5 +1,6 @@
 # express-wrap-async
 [![Build Status](https://travis-ci.org/lsentkiewicz/express-wrap-async.svg?branch=master)](https://travis-ci.org/lsentkiewicz/express-wrap-async)
+[![Coverage Status](https://coveralls.io/repos/github/lsentkiewicz/express-wrap-async/badge.svg?branch=master)](https://coveralls.io/github/lsentkiewicz/express-wrap-async?branch=master)
 
 ## Usage
 
