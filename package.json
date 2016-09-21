@@ -1,6 +1,6 @@
 {
   "name": "express-wrap-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap babel async routes to standard express routes",
   "main": "dist/wrap.js",
   "scripts": {
