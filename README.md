@@ -56,7 +56,7 @@ async function errorRoute(req, res) {
   await fakeWait();
   throw new Error('unexpected error');
 }
-router.get('/standard', wrapAsync(standardRoute));
+router.get('/standard', wrapAsync(errorRoute));
 
 app.use((err, req, res, next) => {
   res.status(500);
