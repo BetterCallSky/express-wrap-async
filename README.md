@@ -4,6 +4,10 @@
 
 ## Usage
 
+```
+npm i --save express-wrap-async
+```
+
 ```js
 import wrapAsync from 'express-wrap-async';
 ```
