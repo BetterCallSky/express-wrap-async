@@ -1,6 +1,6 @@
 # express-wrap-async
 [![Build Status](https://travis-ci.org/lsentkiewicz/express-wrap-async.svg?branch=master)](https://travis-ci.org/lsentkiewicz/express-wrap-async)
-[![codecov](https://codecov.io/gh/lsentkiewicz/express-wrap-async/branch/master/graph/badge.svg)](https://codecov.io/gh/lsentkiewicz/express-wrap-async)
+[![codecov](https://codecov.io/gh/lsentkiewicz/express-wrap-async/branch/master/graph/badge.svg)](https://codecov.io/gh/lsentkiewicz/express-wrap-async) [![Greenkeeper badge](https://badges.greenkeeper.io/BetterCallSky/express-wrap-async.svg)](https://greenkeeper.io/)
 
 ## Usage
 
